@@ -1,0 +1,1 @@
+Calculate the total price for 3 apples at 2 EUR each and 2 bananas at 1.5 EUR each.
